@@ -1,0 +1,6 @@
+c:\users\mary\documents\visual studio 2017\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+c:\users\mary\documents\visual studio 2017\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+c:\users\mary\documents\visual studio 2017\Projects\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\mary\documents\visual studio 2017\Projects\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\mary\documents\visual studio 2017\Projects\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+c:\users\mary\documents\visual studio 2017\Projects\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

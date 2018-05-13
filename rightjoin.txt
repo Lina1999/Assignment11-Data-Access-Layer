@@ -1,0 +1,3 @@
+select * from HumanResources.EmployeePayHistory
+right join HumanResources.EmployeeDepartmentHistory
+on EmployeePayHistory.

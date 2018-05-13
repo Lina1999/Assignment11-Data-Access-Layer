@@ -1,0 +1,3 @@
+select avg(Rate), avg(PayFrequency)
+from HumanResources.EmployeePayHistory
+group by 
